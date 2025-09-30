@@ -1,28 +1,78 @@
-# calculator
+# 🧮 Flutter Calculator App
 
-A calculator app in flutter with basic functionality
+A simple and clean calculator app built using **Flutter**.  
+Supports basic arithmetic operations with a modern UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division  
+- 🖥️ Responsive and adaptive UI for Android & iOS  
+- 🎨 Clean design with Material styling  
+- ⚡ Fast performance with Flutter framework  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Screenshots
+<p align="center">
+  <img src="screenshots/home.png" alt="Calculator Home" width="250"/>
+  <img src="screenshots/operations.png" alt="Calculator Operations" width="250"/>
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Tech Stack
+- **Framework:** Flutter  
+- **Language:** Dart  
+- **IDE:** Android Studio / VS Code  
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Install [Flutter SDK](https://flutter.dev/docs/get-started/install)  
+- Install [Android Studio](https://developer.android.com/studio) or VS Code  
+
+### Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/tripathivivek98/calculator.git
+2. Navigate to project directory:
+   ```bash
+   cd calculator
+3. Get dependencies:
+   ```bash
+   flutter pub get
+4. Run the app:
+   ```bash
+   flutter run
+
+## 📂 Folder Structure
+
+## 📂 Folder Structure
+
+  ```bash
+  lib/
+  ├── main.dart          # App entry point
+  ├── screens/           # UI screens
+  │   └── home_screen.dart
+  ├── widgets/           # Reusable widgets (buttons, display, etc.)
+  │   └── calc_button.dart
+  └── utils/             # Helper classes, constants, calculator logic
+      └── calculator_logic.dart
+  ```
+## 🤝 Contributing
+Contributions are welcome!<br>
+Feel free to fork this repo, raise issues, and submit PRs.
 
 
-Before starting project, learn few things about 
-- MaterialApp
-- StatefulWidget
-- State
-- Widget
-- Scaffold
-- SizedBox
-- GridView
 
-Happy Coding :)
+👤 Author : Vivek Tripathi
+
+💼 [LinkedIn](https://www.linkedin.com/in/vivek--tripathi/)
+
+🐙 [GitHub](https://github.com/tripathivivek98)
+
+
+   
