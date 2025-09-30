@@ -6,33 +6,32 @@ Supports basic arithmetic operations with a modern UI.
 ---
 
 ## ✨ Features
-- ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division  
-- 🖥️ Responsive and adaptive UI for Android & iOS  
-- 🎨 Clean design with Material styling  
-- ⚡ Fast performance with Flutter framework  
+- ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division
+- 🖥️ Responsive and adaptive UI for Android & iOS
+- 🎨 Clean design with Material styling
+- ⚡ Fast performance with Flutter framework
 
 ---
 
 ## 📱 Screenshots
 <p align="center">
-  <img src="screenshots/home.png" alt="Calculator Home" width="250"/>
-  <img src="screenshots/operations.png" alt="Calculator Operations" width="250"/>
+  <img src="home.png" alt="Calculator Home" width="720"/>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
-- **Framework:** Flutter  
-- **Language:** Dart  
-- **IDE:** Android Studio / VS Code  
+- **Framework:** Flutter
+- **Language:** Dart
+- **IDE:** Android Studio / VS Code
 
 ---
 
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Install [Flutter SDK](https://flutter.dev/docs/get-started/install)  
-- Install [Android Studio](https://developer.android.com/studio) or VS Code  
+- Install [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Install [Android Studio](https://developer.android.com/studio) or VS Code
 
 ### Installation
 1. Clone this repository:
