@@ -48,7 +48,6 @@ Supports basic arithmetic operations with a modern UI.
    ```bash
    flutter run
 
-## 📂 Folder Structure
 
 ## 📂 Folder Structure
 
@@ -62,10 +61,11 @@ Supports basic arithmetic operations with a modern UI.
   └── utils/             # Helper classes, constants, calculator logic
       └── calculator_logic.dart
   ```
+
+
 ## 🤝 Contributing
 Contributions are welcome!<br>
 Feel free to fork this repo, raise issues, and submit PRs.
-
 
 
 👤 Author : Vivek Tripathi
