@@ -54,9 +54,9 @@ Supports basic arithmetic operations with a modern UI.
   lib/
   ├── main.dart          # App entry point
   ├── screens/           # UI screens
-  │   └── home_screen.dart
+  │   └── calculator_screen.dart
   ├── widgets/           # Reusable widgets (buttons, display, etc.)
-  │   └── calc_button.dart
+  │   └── calculator_button.dart
   └── utils/             # Helper classes, constants, calculator logic
       └── calculator_logic.dart
   ```
