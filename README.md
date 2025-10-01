@@ -66,6 +66,12 @@ Contributions are welcome!<br>
 Feel free to fork this repo, raise issues, and submit PRs.
 
 
+## 📜 License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+
+
 👤 Author : Vivek Tripathi
 
 💼 [LinkedIn](https://www.linkedin.com/in/vivek--tripathi/)
