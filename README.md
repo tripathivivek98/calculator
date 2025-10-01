@@ -11,15 +11,6 @@ Supports basic arithmetic operations with a modern UI.
 - 🎨 Clean design with Material styling
 - ⚡ Fast performance with Flutter framework
 
----
-
-## 📱 Screenshots
-<p align="center">
-  <img src="home.png" alt="Calculator Home" width="720"/>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 - **Framework:** Flutter
 - **Language:** Dart
@@ -61,6 +52,14 @@ Supports basic arithmetic operations with a modern UI.
       └── calculator_logic.dart
   ```
 
+---
+
+## 📱 Screenshots
+<p align="center">
+  <img src="home.png" alt="Calculator Home" width="192"/>
+</p>
+
+---
 
 ## 🤝 Contributing
 Contributions are welcome!<br>
